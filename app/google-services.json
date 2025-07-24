@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989267119821",
+    "firebase_url": "https://differently-abled-people-default-rtdb.firebaseio.com",
+    "project_id": "differently-abled-people",
+    "storage_bucket": "differently-abled-people.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989267119821:android:158edfeccacffc49ed6384",
+        "android_client_info": {
+          "package_name": "com.technogenis.mobileappforpeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989267119821-po78kan0qqelh7k9in3krv9844fqjk0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-kbmqEPACw4SaK1V9mT0ja8V1633DgBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989267119821-po78kan0qqelh7k9in3krv9844fqjk0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
